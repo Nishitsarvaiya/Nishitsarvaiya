@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nishitsarvaiya
 - 👀 I’m interested in building Frontend UI and Beautiful Animations
-- 🌱 I’m currently learning React
 - 📫 You can reach me at nishitsarvaiiya@gmail.com
 
 <!---
